@@ -36,13 +36,5 @@ Un diseño de blog o portal de noticias que incluye categorías como noticias de
 
 El objetivo principal de este portafolio es demostrar competencias en el diseño y desarrollo de interfaces web a través de proyectos prácticos. Cada práctica está orientada a resolver problemas específicos de diseño y a implementar conceptos aprendidos.
 
----
-
-## Contacto
-
-Si deseas obtener más información o colaborar en futuros proyectos, no dudes en contactarme:
-
-- **Correo electrónico:** tuemail@ejemplo.com
-- **Teléfono:** +123 456 7890
 
 ¡Gracias por visitar mi portafolio!
